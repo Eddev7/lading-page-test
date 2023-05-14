@@ -1,0 +1,8 @@
+:root { /* tag para criação de variaveis no css*/
+    --primary-color: #0A1128;
+    --white-color: #ffffff;
+    --light-gray-color: #EEEEEE;
+    --dark-gray-color: #686868;
+    --secondary-color: crimson;
+    --gap: 3rem;
+}
